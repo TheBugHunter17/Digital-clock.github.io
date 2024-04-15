@@ -22,5 +22,5 @@ A simple digital clock website with a detailed styling and a well versed
 - `styles.css`: The CSS file containing the styles for the webpage.
 
 ##Hosted link 
-
+https://thebughunter17.github.io/Digital-clock.github.io/
 
